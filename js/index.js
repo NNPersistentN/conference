@@ -39,7 +39,7 @@ $(function(){
 
 
     $(".item").each(function(e,v){
-        $(v).css({background:"url('../images/0000-"+(e+1)+".jpg') no-repeat center center / cover"}).attr("id",e+1);
+        $(v).css({background:"url('images/0000-"+(e+1)+".jpg') no-repeat center center / cover"}).attr("id",e+1);
     })
     var num = 0;
     $(".item").each(function(e,v){
