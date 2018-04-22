@@ -188,7 +188,26 @@ html,body{
 .item.p9{
     background: url('../images/0000-55.jpg') no-repeat center center / cover;
 }
-
-
+.loading:nth-child(1){
+    background: url('../images/0000-1.jpg') no-repeat center center / cover;
+}
+.loading:nth-child(2){
+    background: url('../images/0000-2.jpg') no-repeat center center / cover;
+}
+.loading:nth-child(3){
+    background: url('../images/0000-3.jpg') no-repeat center center / cover;
+}
+.loading.b9s{
+    background: url('../images/0000-7.jpg') no-repeat center center / cover;
+}
+.loading.q{
+    background: url('../images/0000-21.jpg') no-repeat center center / cover;
+}
+.loading.w{
+    background: url('../images/0000-3.jpg') no-repeat center center / cover;
+}
+.loading.e{
+    background: url('../images/0000-3.jpg') no-repeat center center / cover;
+}
 
 
